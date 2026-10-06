@@ -29,6 +29,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: Guilherme Tyszkouski 
+Nome: Guilherme Tyszkouski
 RA: 2025207312
-URL: https://
+URL: https://2bim-avalia1-cb2.pages.dev

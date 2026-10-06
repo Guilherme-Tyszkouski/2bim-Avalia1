@@ -5,7 +5,7 @@
 
 // Client ID do OAuth (publico). Deve ser o mesmo valor da variavel de ambiente
 // GOOGLE_CLIENT_ID configurada no painel do Cloudflare Pages.
-const GOOGLE_CLIENT_ID = "COLE_AQUI_O_SEU_CLIENT_ID.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "99578499287-e85hffqm9vn6o636megogo1kbqouksnb.apps.googleusercontent.com";
 
 const formulario = document.getElementById("formulario");
 const campoNumero = document.getElementById("numero");
